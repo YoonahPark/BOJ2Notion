@@ -2,14 +2,14 @@ from github import Github
 from execute import execute_boj2github, execute_boj2notion, execute_boj2notionNgithub
 
 # set personal informations
-user_id = "cufft"
+user_id = ""
 
-token_v2 = "bb13d3363def2c8df37654e609f7e44def2ab696b3810374bfa6e45787d6e5a9401f60a6f66d9bd3072c8fe9bce3f6a3b2ecf6c7f852d7abc83382dc13a933b15d7f99a290028e2e829fca77d580"
-url = "https://www.notion.so/wintercoding/04b22f0d05334b7280324f7cb8298f4e"
+token_v2 = ""
+url = ""
 
-github_access_key = "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"
+github_access_key = ""
 g = Github(github_access_key)
-repo_name = "YoonahPark/boj"
+repo_name = ""
 
 
 # set filtering or sorting dic
